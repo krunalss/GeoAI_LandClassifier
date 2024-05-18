@@ -2,7 +2,7 @@
 
 Welcome to the **GeoAI Land Classifier** project! This project enhances traditional GIS software with generative AI capabilities using Google Gemini Pro Vision, enabling sophisticated land classification from satellite imagery.
 
-[https://geo-ai-land-classifier.streamlit.app/](live Streamlit APP URL)
+[Live Streamlit APP URL](https://geo-ai-land-classifier.streamlit.app/)
 
 ## Features ✨
 - **Real-time Satellite Image Retrieval**: Integrated with Azure Maps and Bing Maps APIs.
