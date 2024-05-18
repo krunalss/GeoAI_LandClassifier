@@ -57,7 +57,7 @@ def get_gemini_response(image,prompt):
 
 # Streamlit app
 st.set_page_config(page_title="Geo AI Land Describer")
-st.title("Gemini Geo Land Descripter")
+st.title("Gemini Geo Land Describer")
 output_path = r"artifacts\map_image.jpeg"
 latitude = st.number_input("Enter Latitude:", value=21.393012, format="%.6f")
 longitude = st.number_input("Enter Longitude:", value=79.321489, format="%.6f")
